@@ -8,7 +8,7 @@ Para a realização da atividade, foi selecionada a classe `Produto`, pertencent
 
 Além disso, foram desenvolvidas as classes `Database` e `CardapioRepository`, responsáveis, respectivamente, pelo gerenciamento da conexão com o banco de dados e pela execução das operações de persistência.
 
-"[Projeto na IDE do BlueJ](imagens/Projeto.png)
+![Projeto na IDE do BlueJ](imagens/Projeto.png)
 
 *Figura 1 - Estrutura do projeto na IDE do BlueJ*
 
@@ -150,7 +150,7 @@ Para comprovar a persistência, foram realizados testes de inserção e consulta
 
 **Evidência da persistência dos dados:**
 
-![Evidência da persistência dos dados](imagens/Read.png)
+![Evidência da persistência dos dados](imagens/Persistência.png)
 
 *Figura 6 – Verificação da persistência dos dados no SQLite.*
 
