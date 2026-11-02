@@ -8,6 +8,10 @@ Para a realização da atividade, foi selecionada a classe `Produto`, pertencent
 
 Além disso, foram desenvolvidas as classes `Database` e `CardapioRepository`, responsáveis, respectivamente, pelo gerenciamento da conexão com o banco de dados e pela execução das operações de persistência.
 
+"[Projeto na IDE do BlueJ](imagens/Projeto.png)
+
+*Figura 1 - Estrutura do projeto na IDE do BlueJ*
+
 ## 2. Descrição da implementação
 
 ### 2.1. Classe Produto
@@ -70,11 +74,9 @@ Dessa maneira, a operação permite cadastrar novos produtos no cardápio e gara
 
 **Evidência da operação Create:**
 
-Inserir uma captura de tela demonstrando o cadastro de um produto e sua inserção no banco de dados.
-
 ![Evidência da operação Create](imagens/Create.png)
 
-*Figura 1 – Cadastro de um novo produto no banco de dados.*
+*Figura 2 – Cadastro de um novo produto no banco de dados.*
 
 ### 3.2. Read – Consulta de produtos
 
@@ -92,11 +94,9 @@ A implementação, portanto, permite realizar consultas tanto individuais quanto
 
 **Evidência da operação Read:**
 
-Inserir uma captura de tela demonstrando a consulta de um produto pelo identificador ou a listagem dos produtos cadastrados.
-
 ![Evidência da operação Read](imagens/Read.png)
 
-*Figura 2 – Consulta dos produtos armazenados no banco de dados.*
+*Figura 3 – Consulta dos produtos armazenados no banco de dados.*
 
 ### 3.3. Update – Atualização de produtos
 
@@ -112,11 +112,9 @@ Essa implementação permite modificar as informações de um produto existente,
 
 **Evidência da operação Update:**
 
-Inserir uma captura de tela demonstrando a alteração de um produto e a consulta de seus dados atualizados.
-
 ![Evidência da operação Update](imagens/Update.png)
 
-*Figura 3 – Atualização das informações de um produto cadastrado.*
+*Figura 4 – Atualização das informações de um produto cadastrado.*
 
 ### 3.4. Delete – Exclusão de produtos
 
@@ -132,11 +130,9 @@ Dessa forma, a operação permite excluir produtos do banco de dados e atualizar
 
 **Evidência da operação Delete:**
 
-Inserir uma captura de tela demonstrando a exclusão de um produto e a verificação de que ele não está mais presente no banco de dados.
-
 ![Evidência da operação Delete](imagens/Delete.png)
 
-*Figura 4 – Exclusão de um produto do banco de dados.*
+*Figura 5 – Exclusão de um produto do banco de dados.*
 
 ## 4. Persistência dos dados
 
@@ -154,11 +150,9 @@ Para comprovar a persistência, foram realizados testes de inserção e consulta
 
 **Evidência da persistência dos dados:**
 
-Inserir uma captura de tela demonstrando que os registros permanecem armazenados após uma nova conexão com o banco de dados.
-
 ![Evidência da persistência dos dados](imagens/Read.png)
 
-*Figura 5 – Verificação da persistência dos dados no SQLite.*
+*Figura 6 – Verificação da persistência dos dados no SQLite.*
 
 ## 5. Testes realizados
 
