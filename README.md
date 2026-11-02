@@ -72,7 +72,7 @@ Dessa maneira, a operação permite cadastrar novos produtos no cardápio e gara
 
 Inserir uma captura de tela demonstrando o cadastro de um produto e sua inserção no banco de dados.
 
-![Evidência da operação Create](DataBase-emJava---Atividade-10-POO-/imagens/Create.png)
+![Evidência da operação Create](imagens/Create.png)
 
 *Figura 1 – Cadastro de um novo produto no banco de dados.*
 
@@ -94,7 +94,7 @@ A implementação, portanto, permite realizar consultas tanto individuais quanto
 
 Inserir uma captura de tela demonstrando a consulta de um produto pelo identificador ou a listagem dos produtos cadastrados.
 
-![Evidência da operação Read](imagens/read.png)
+![Evidência da operação Read](imagens/Read.png)
 
 *Figura 2 – Consulta dos produtos armazenados no banco de dados.*
 
@@ -114,7 +114,7 @@ Essa implementação permite modificar as informações de um produto existente,
 
 Inserir uma captura de tela demonstrando a alteração de um produto e a consulta de seus dados atualizados.
 
-![Evidência da operação Update](imagens/update.png)
+![Evidência da operação Update](imagens/Update.png)
 
 *Figura 3 – Atualização das informações de um produto cadastrado.*
 
@@ -134,7 +134,7 @@ Dessa forma, a operação permite excluir produtos do banco de dados e atualizar
 
 Inserir uma captura de tela demonstrando a exclusão de um produto e a verificação de que ele não está mais presente no banco de dados.
 
-![Evidência da operação Delete](imagens/delete.png)
+![Evidência da operação Delete](imagens/Delete.png)
 
 *Figura 4 – Exclusão de um produto do banco de dados.*
 
@@ -156,7 +156,7 @@ Para comprovar a persistência, foram realizados testes de inserção e consulta
 
 Inserir uma captura de tela demonstrando que os registros permanecem armazenados após uma nova conexão com o banco de dados.
 
-![Evidência da persistência dos dados](imagens/persistencia.png)
+![Evidência da persistência dos dados](imagens/Read.png)
 
 *Figura 5 – Verificação da persistência dos dados no SQLite.*
 
