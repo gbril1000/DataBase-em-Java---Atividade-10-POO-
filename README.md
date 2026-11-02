@@ -72,7 +72,7 @@ Dessa maneira, a operação permite cadastrar novos produtos no cardápio e gara
 
 Inserir uma captura de tela demonstrando o cadastro de um produto e sua inserção no banco de dados.
 
-![Evidência da operação Create](imagens/create.png)
+![Evidência da operação Create](DataBase-emJava---Atividade-10-POO-/imagens/Create.png)
 
 *Figura 1 – Cadastro de um novo produto no banco de dados.*
 
